@@ -1,4 +1,4 @@
-= Excel-File-Divider =
+== Excel File Divider ==
 
 Language: Python 3.7
 
