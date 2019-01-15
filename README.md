@@ -6,10 +6,10 @@ This is a project that helps divide large xls data files into multiple small siz
 The divider will automatically evenly divide the excel file into multiple sub files base on the parameters specified.
 
 Parameters needed to be specified: 
-    1. File Directory
-    2. Num of files you want to split into
-    3. Num of row a file containes
+	1. File Directory
+	2. Num of files you want to split into
+ 	3. Num of row a file containes
     
    
 To Do List:
-  1. Eliminate errors possibilities
+ 	1. Eliminate errors possibilities
